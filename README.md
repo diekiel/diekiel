@@ -14,6 +14,7 @@ I love working on the frontend because it allows me to combine my creativity wit
 # 💼 Jobs
 ![IDPbr](https://www.idpbr.com/favicon.ico)[IDPbr](https://www.idpbr.com/)
 [![IDPBR](https://www.idpbr.com/favicon.ico)](https://www.idpbr.com/)
+<a href="https://www.idpbr.com/"><img src="https://www.idpbr.com/favicon.ico" alt="IDPBR" width="32px" height="32px"></a>
 ![IDPbr](https://www.idc-br.com/favicon.ico)[IDCbr](https://www.idc-br.com/)
 [![251824850-2f2b3c7f-72ca-42aa-893a-e0cf13dd182d](https://github.com/diekiel/diekiel/assets/93294029/f48f26b5-136a-4216-9324-2ad289e91713)](https://www.auzzacapital.com/)
 ![Sulreal Team](https://www.sulreal.team/favicon.ico) [Sulreal Team](https://www.sulreal.team/)
