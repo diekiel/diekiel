@@ -16,7 +16,7 @@ I love working on the frontend because it allows me to combine my creativity wit
 <a href="https://www.idc-br.com/"><img src="https://www.idc-br.com/favicon.ico" alt="IDCBR" width="32px" height="32px"></a>
 <a href="https://www.auzzacapital.com/"><img src="https://www.auzzacapital.com/favicon.ico" alt="Auzza Capital" width="32px" height="32px"></a>
 <a href="https://www.sulreal.team/"><img src="https://www.sulreal.team/favicon.ico" alt="Sulreal Team" width="32px" height="32px"></a>
-<a href="http://www.phenombrasil.com.br/"><img src="[https://www.sulreal.team/favicon.ico](https://ferminobd-phenom.vercel.app/favicon.ico)" alt="Phenom Idiomas" width="32px" height="32px"></a>
+<a href="http://www.phenombrasil.com.br/"><img src="https://ferminobd-phenom.vercel.app/favicon.ico" alt="Phenom Idiomas" width="32px" height="32px"></a>
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/diekiel) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fermino-39861224b/)
