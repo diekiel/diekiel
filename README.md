@@ -13,8 +13,6 @@ I love working on the frontend because it allows me to combine my creativity wit
 
 # 💼 Jobs
 <a href="https://www.idpbr.com/"><img src="https://www.idpbr.com/favicon.ico" alt="IDPBR" width="32px" height="32px"></a>
-<a href="https://www.idc-br.com/"><img src="https://www.idc-br.com/favicon.ico" alt="IDCBR" width="32px" height="32px"></a>
-<a href="https://www.auzzacapital.com/"><img src="https://www.auzzacapital.com/favicon.ico" alt="Auzza Capital" width="32px" height="32px"></a>
 <a href="https://www.sulreal.team/"><img src="https://www.sulreal.team/favicon.ico" alt="Sulreal Team" width="32px" height="32px"></a>
 <a href="http://www.phenombrasil.com.br/"><img src="https://ferminobd-phenom.vercel.app/favicon.ico" alt="Phenom Idiomas" width="32px" height="32px"></a>
 
